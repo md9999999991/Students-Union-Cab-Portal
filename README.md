@@ -1,0 +1,2 @@
+# Students-Union-Cab-Portal
+The portal uses multiple API integrations including google sheets API, google sign in API and awesome tables API. I made the portal without any sql database and used the google sheets API instead, to store all the travel records. The portal is prone to fake entries using BITS email sign in. All the html and JSP pages are made completely dynamic. The portal thrives to eliminate the corrupt practices adopted by vendor.
